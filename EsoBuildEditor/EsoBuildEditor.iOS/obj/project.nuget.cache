@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s41mssDHVfotEKTFiBYa0s2Kj8MH17gVlkZX+xjJz0H32mfwD9pBRah0Oyv2S7XgVQOYLF7i3QUFPNup7KudQQ==",
+  "success": true,
+  "projectFilePath": "C:\\apps\\TabletopDiceMaster\\EsoBuildEditor\\EsoBuildEditor\\EsoBuildEditor.iOS\\EsoBuildEditor.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
