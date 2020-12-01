@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8152CC9A-41E4-4D03-923F-AE7522D2DB4A}</ProjectGuid>
+    <ProjectGuid>{06DBAABB-AF87-42AB-BAE2-C67AA0BA13D8}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TemplateGuid>{6968b3a4-1835-46a3-ac5c-1ae33b475983}</TemplateGuid>
     <OutputType>Library</OutputType>
@@ -90,7 +90,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\EsoBuildEditor\EsoBuildEditor.csproj">
-      <Project>{6339ACB0-A58B-4480-A63D-2940F6FFB176}</Project>
+      <Project>{34A7111A-3C8E-4692-9F81-FDA3643839AF}</Project>
       <Name>EsoBuildEditor</Name>
     </ProjectReference>
   </ItemGroup>
